@@ -1,0 +1,17 @@
+#logo.logo_size{
+    height:50px;
+}
+
+#logo.logo_size img{
+    height:16px;
+}
+
+#logo .ajax-link{
+    display:flex;
+}
+
+#logo img.white-logo, #logo img.black-logo{
+    position:absolute;
+    top:50%!important; 
+    transform:translateY(-50%);
+}
